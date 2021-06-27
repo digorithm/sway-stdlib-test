@@ -13,6 +13,8 @@ impl Add for u64 {
      }
 }
 
+// Test comment
+
 impl Add for u32 {
      fn add(self, other: Self) -> Self {
         asm(r1: self, r2: other, r3) {
