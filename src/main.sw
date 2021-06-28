@@ -14,6 +14,7 @@ impl Add for u64 {
 }
 
 // Test comment
+// Second test comment
 
 impl Add for u32 {
      fn add(self, other: Self) -> Self {
