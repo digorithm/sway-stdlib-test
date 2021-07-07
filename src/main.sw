@@ -1,6 +1,7 @@
 library ops;
 // Adding a comment
 // Adding a second comment
+// Adding a third comment
 
 pub trait Add {
     fn add(self, other: Self) -> Self;
